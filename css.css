@@ -1,0 +1,28 @@
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+ul {
+    display: flex;
+}
+li {
+    list-style: none;
+    padding: 8px 15px;
+}
+.card-body {
+    background-color: aqua;
+}
+.test {
+    background-color: aquamarine;
+}
+.body {
+    display: flex;
+    text-align: center;
+    margin: 40px;
+}
+.footer{
+    margin: 200px;
+    display: flex;
+    justify-content: center;
+}
